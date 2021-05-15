@@ -3,7 +3,7 @@
 
 void admMenu()
 {
-    std::cout << "--------------------" <<  std::endl;
+    std::cout << "------ADM-MENU------" <<  std::endl;
     std::cout << "1 - Add user"         <<  std::endl;
     std::cout << "2 - Delete user"      <<  std::endl;
     std::cout << "3 - List users"       <<  std::endl;

@@ -115,7 +115,7 @@ void cls()
 
 void menu()
 {
-    std::cout << "--------------------" << std::endl;
+    std::cout << "--------MENU--------" << std::endl;
     std::cout << "1 - Login"            << std::endl;
     std::cout << "2 - Register"         << std::endl;
     std::cout << "3 - exit"             << std::endl;
